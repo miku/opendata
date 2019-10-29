@@ -14,3 +14,4 @@ Lists of open data resources, stats, notes on processing. For now, this is mostl
 # Organisations
 
 * [World Bank](https://data.worldbank.org/) (15000 time series, 3000 surveys, 550 geospatial)
+* [WHO](https://www.who.int/gho/database/en/)
